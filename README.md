@@ -1,0 +1,3 @@
+- 👋 Hi, I’m développers C / C++
+- 👀 I’m interested in Hosting / Coding / engineering.
+- ⚡ Fun fact: ...
