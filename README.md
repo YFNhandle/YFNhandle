@@ -1,3 +1,3 @@
-- 👋 Hi, I’m développers C / C++
-- 👀 I’m interested in Hosting / Coding / engineering.
-- ⚡ Fun fact: ...
+📫 How to reach me: You can't anymore unless it's via GitHub issues which I rarely check.
+⚡ Fun fact: I'm really good at most games.
+🎉Coding Languages: Fluent in C++, getting better at C# & JS.
